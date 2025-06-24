@@ -41,7 +41,7 @@ Todos os exercícios foram feitos com base no que foi ensinado em cada aula, **s
 
 ## 📎 Links úteis
 
-- [Canal Curso em Vídeo no YouTube](https://www.youtube.com/@CursoemVideo)  
+- [Canal Curso em Vídeo no YouTube](https://www.youtube.com/cursoemvideo)  
 - [Site Oficial do Curso em Vídeo](https://www.cursoemvideo.com/)  
 - [Python Brasil](https://www.python.org.br/)
 
