@@ -2,19 +2,23 @@
 
 Este repositório contém todos os exercícios resolvidos dos **2 primeiros cursos de Python** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor Gustavo Guanabara.
 
+## 🎯 Objetivo do Projeto
+
+Este repositório foi criado para ajudar iniciantes no aprendizado de Python, reunindo exercícios práticos e soluções claras dos cursos do Curso em Vídeo, facilitando o estudo e a consulta.
+
 ## 📚 Conteúdo
 
 ✔️ **Mundo 1 (Básico)**  
 ✔️ **Mundo 2 (Estruturas de Controle)**
 
-Os exercícios estão organizados em uma única pasta, com os arquivos diferenciados pelo prefixo `mundo1_` ou `mundo2_` para facilitar a identificação.
+Os exercícios estão organizados em uma única pasta, com os arquivos diferenciados pelo prefixo `Mundo 1 Python_` ou `Mundo 2 Python` para facilitar a identificação.
 
 ---
 
 ## 🚀 Tecnologias
 
 - Python 3.x  
-- VSCode (ou outro editor de sua preferência)  
+- VSCode   
 - Git + GitHub
 
 ---
