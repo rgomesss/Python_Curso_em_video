@@ -1,4 +1,4 @@
-# 🐍 Curso em Vídeo - Exercícios de Pythondsadsa
+# 🐍 Curso em Vídeo - Exercícios de Python
 
 Este repositório contém todos os exercícios resolvidos dos **2 primeiros cursos de Python** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor Gustavo Guanabara.
 
@@ -13,6 +13,9 @@ Este repositório foi criado para ajudar iniciantes no aprendizado de Python, re
 🔄 **Mundo 3 – Estruturas Compostas** *(em andamento)*
 
 Os exercícios estão organizados em uma única pasta, com os arquivos diferenciados pelo prefixo `Mundo 1 Python_` ou `Mundo 2 Python` para facilitar a identificação.
+
+
+
 
 ---
 
