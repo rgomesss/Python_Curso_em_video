@@ -9,7 +9,7 @@ Este repositório foi criado para ajudar iniciantes no aprendizado de Python, re
 ## 📚 Conteúdo
 
 ✔️ **Mundo 1 (Básico)**  
-✔️ **Mundo 2 (Estruturas de Controle)**
+✔️ **Mundo 2 (Estruturas de Controle)**<br>
 🔄 **Mundo 3 – Estruturas Compostas** *(em andamento)*
 
 Os exercícios estão organizados em uma única pasta, com os arquivos diferenciados pelo prefixo `Mundo 1 Python_` ou `Mundo 2 Python` para facilitar a identificação.
