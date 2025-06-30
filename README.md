@@ -1,4 +1,4 @@
-# 🐍 Curso em Vídeo - Exercícios de Python
+# 🐍 Curso em Vídeo - Exercícios de Pythondsadsa
 
 Este repositório contém todos os exercícios resolvidos dos **2 primeiros cursos de Python** do [Curso em Vídeo](https://www.cursoemvideo.com/), ministrado pelo professor Gustavo Guanabara.
 
