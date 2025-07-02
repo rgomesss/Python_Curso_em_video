@@ -3,8 +3,8 @@
 lista =[]
 while True:
     lista.append(int(input('Digite um valor: ')))
-    menu = input('Quer continuar ? [s][n]').lower()
-    if menu != 's':
+    menu = input('Quer continuar ? [S][N]').upper()
+    if menu != 'S':
         break
 
 print(f'Você digitou: {len(lista)} números')
