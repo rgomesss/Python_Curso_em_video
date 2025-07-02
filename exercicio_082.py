@@ -13,5 +13,6 @@ for num in lista1:
         lista_pares.append(num)
     else:
         lista_impares.append(num)
-print(lista_pares)
-print(lista_impares)
+print(f'Você digitou: {lista1}')
+print(f'Lista com numeros pares: {lista_pares}')
+print(f'Lista com numeros impares: {lista_impares}')
