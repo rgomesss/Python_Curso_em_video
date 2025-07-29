@@ -13,6 +13,5 @@ def somaPar():
     soma = sum(n for n in números if n % 2 == 0)
     print(f"Soma dos números pares: {soma}")
 
-# Exemplo de uso:
 sorteia()
 somaPar()
